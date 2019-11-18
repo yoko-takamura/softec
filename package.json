@@ -1,7 +1,7 @@
 {
   "name": "softec",
   "scripts": {
-    "test": "echo This is Test-Script",
+    "test": "git clone https://github.com/yoko-takamura/softec.git",
     "deploy": "echo This is Deploy-Script"
   }
 }
