@@ -1,5 +1,5 @@
 {
-  "name": "circleci-sample",
+  "name": "softec",
   "scripts": {
     "test": "echo This is Test-Script",
     "deploy": "echo This is Deploy-Script"
